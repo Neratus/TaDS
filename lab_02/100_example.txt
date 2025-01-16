@@ -1,0 +1,100 @@
+Fedin Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikov Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenko Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Eremin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Babere Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Zernov Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilovich Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovich Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenkovna Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Putin Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fedinovich Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Curovtsev Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovtcev Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilsha Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Zernovich George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Medvedev Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fed Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoil Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Zernovov Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Isha Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminoff George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Baberere Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fedinofff Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoi Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soyn Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Mostovaya Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminich George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Eremina Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Caharear Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Sailov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovqw Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Khorn Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Lom George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Gates Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Zephiroth Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Mordorov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynik Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Baal Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Fedin Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikov Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenko Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Eremin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Babere Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Zernov Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilovich Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovich Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenkovna Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Putin Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fedinovich Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Curovtsev Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovtcev Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilsha Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Zernovich George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Medvedev Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fed Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoil Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Zernovov Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Isha Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminoff George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Baberere Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fedinofff Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoi Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soyn Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Mostovaya Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminich George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Eremina Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Caharear Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Sailov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovqw Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Khorn Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Lom George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Gates Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Zephiroth Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Mordorov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynik Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Baal Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Fedin Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilov Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikov Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenko Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Eremin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Babere Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Zernov Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoilovich Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovich Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilshenkovna Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Ereminin George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Putin Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fedinovich Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Curovtsev Anton IU7-34B m 19 76 30.12.2021 2 16 7
+Soynikovtcev Pavel IU7-34B m 18 99.9 21.09.2022 3 Northstreet 63 81 15000
+Ilsha Eve IU7-34B f 19 91.4 15.05.2022 1 Bauman 576 2834
+Zernovich George IU7-34B m 18 60.0001 1.02.2022 2 21 4
+Medvedev Victoria IU7-34B m 18 75.6 12.03.2022 3 Noviygrad 13 75 2000
+Fed Andrey IU7-34B m 19 80.1 12.03.2022 1 Veshnyuaki 12 3
+Samoil Anton IU7-34B m 19 76 30.12.2021 2 16 7
